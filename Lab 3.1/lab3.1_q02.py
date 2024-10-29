@@ -1,0 +1,1 @@
+print("The Golden Ratio has the same letters as The God Relation.")
